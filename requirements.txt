@@ -1,0 +1,8 @@
+ollama
+openai==0.27.9
+langchain
+langchain-community
+streamlit
+chromadb==0.3.29
+tiktoken
+python-docx
