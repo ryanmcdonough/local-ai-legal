@@ -62,7 +62,7 @@ ollama pull nomic-embed-text
 
 1. Start the application:
    ```bash
-   streamlit run Talk.py
+   streamlit run Document.py
    ```
 
 2. Open the provided URL in your web browser.
