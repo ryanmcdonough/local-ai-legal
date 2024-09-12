@@ -27,7 +27,7 @@ Before running the application, we recommend downloading the following models us
    - `llama3`: A more powerful model for complex reasoning tasks.
 
 2. For embeddings:
-   - `nomic-embed-text`: Optimized for creating text embeddings.
+   - `nomic-embed-text`: Optimised for creating text embeddings.
 
 To download these models, use the following commands:
 
@@ -48,9 +48,10 @@ ollama pull nomic-embed-text
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/ryanmcdonough/local-legal-ai-chatbot.git
+   git clone https://github.com/ryanmcdonough/local-ai-legal.git
    cd local-legal-ai-chatbot
    ```
+
 
 2. Install required packages:
    ```bash
@@ -94,8 +95,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Support
 
-If you encounter any issues or have questions, please open an issue on the GitHub repository. We're here to help!
-
----
-
-Thank you for your interest in the Local Legal AI Chatbot. We hope this tool enhances your legal document analysis and AI interaction experiences!
+If you encounter any issues or have questions, please open an issue on the GitHub repository. Happy to take a look at any problems.
